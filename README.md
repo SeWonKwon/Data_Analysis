@@ -9,8 +9,8 @@
 2. L02_Data Preprocessing, Quality, Techinques
 3. L03_Data Cleaning
 4. L04_Data intergration
-5. L05_
-6. L06_
+5. L05_Data Reduction
+6. L06_Data Transformation
 7. L07_Feature_Engineering
 
 
