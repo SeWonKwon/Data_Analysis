@@ -1,6 +1,6 @@
 # Data_Analysis
 
-
+따로 구분이 어려워서 [Machine_Learning](https://github.com/SeWonKwon/Machine_Learning)에 통합했습니다. 
 
 # Data_Analysis_L
 
